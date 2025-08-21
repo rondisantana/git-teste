@@ -1,1 +1,2 @@
 Texto para teste
+Esta é uma nova alteração
